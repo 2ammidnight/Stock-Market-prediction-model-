@@ -48,7 +48,7 @@ Scikit-Learn
 TensorFlow/Keras (for LSTM)
 
 📦 Installation
-git clone https://github.com/your-username/stock-market-prediction
+git clone https://github.com/2ammidnight/Stock-Market-prediction-model-/tree/main
 cd stock-market-prediction
 pip install -r requirements.txt
 
